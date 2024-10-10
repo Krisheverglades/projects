@@ -126,3 +126,6 @@ if output_path:
     print(f"Differences report saved to: {output_path}")
 else:
     print("Save operation was cancelled.")
+
+
+#new comment test
